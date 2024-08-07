@@ -1,1 +1,1 @@
-# module-ballerinax-openai.text
+# module-ballerinax-openai.assistants
