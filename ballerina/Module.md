@@ -194,7 +194,7 @@ public function main() returns error?{
 }
 ```
 Once the Run completes, you can list the Messages added to the Thread by the Assistant.
-```
+```ballerina
 public function main() returns error?{
     string threadId = "your_thread_id";
 
